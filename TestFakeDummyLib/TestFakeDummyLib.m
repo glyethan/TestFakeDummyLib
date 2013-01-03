@@ -12,7 +12,7 @@
 
 -(NSString *)getStringFromDependency
 {
-    return @"Hi! I'm From your EDITEDx2 + ADHOC + ASYNCH EDIT static library dependency!";
+    return @"Hi! I'm From your suuubTREEEE static library dependency!";
 }
 
 @end
