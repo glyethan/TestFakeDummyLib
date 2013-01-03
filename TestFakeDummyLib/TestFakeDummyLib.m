@@ -12,7 +12,7 @@
 
 -(NSString *)getStringFromDependency
 {
-    return @"Hi! I'm From your 2x2 Externally Modified static library dependency!";
+    return @"Hi! I'm From your 3x333333 Externally Modified static library dependency!";
 }
 
 @end
